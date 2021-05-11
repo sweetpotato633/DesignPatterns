@@ -1,0 +1,5 @@
+温度传感器 湿度传感器 气压传感器
+气象站采集器
+远程主站 接口函数 getTemperature(); getHumidity(); getPressure(); changed();
+显示屏 会有多种显示
+
